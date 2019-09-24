@@ -1,1 +1,4 @@
-# Write your code here.
+def line(customers)
+  katz_deli = []
+ puts "The line is currently empty."
+end
